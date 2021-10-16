@@ -53,7 +53,8 @@ namespace WeightTrackerTool
             }
 
             // Keep the console window open in debug mode.
-            Console.WriteLine("Press any key to exit.");
+            Console.WriteLine("Press any key to exit the tool.");
+            // -- new comment here
             //System.Console.ReadKey();
         }
     }
